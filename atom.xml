@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cindylilia</title>
+  
+  <subtitle>你想要的，要自己给</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-10T05:15:26.369Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Cindylilia</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Only for Test</title>
+    <link href="http://yoursite.com/2018/10/10/Only-for-Test/"/>
+    <id>http://yoursite.com/2018/10/10/Only-for-Test/</id>
+    <published>2018-10-10T05:03:30.000Z</published>
+    <updated>2018-10-10T05:15:26.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h3&gt;&lt;figure
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/10/10/hello-world/"/>
+    <id>http://yoursite.com/2018/10/10/hello-world/</id>
+    <published>2018-10-10T02:44:31.309Z</published>
+    <updated>2018-10-10T02:44:31.309Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
